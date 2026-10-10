@@ -1,0 +1,16 @@
+{
+  "image": "coffee",
+  "size": 128,
+  "n": 4096,
+  "densify": false,
+  "n_init": 4096,
+  "steps": 2000,
+  "lr": 0.01,
+  "lr_mu": 0.1,
+  "seed": 0,
+  "device": "mps",
+  "seconds": 106.6,
+  "final_psnr": 40.02638379788522,
+  "final_n": 4096,
+  "num_values": 36864
+}

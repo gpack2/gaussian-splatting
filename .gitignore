@@ -1,0 +1,19 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+outputs/**/gaussians.pt
+
+# Course handout and dataset (download spheres.zip as described in the README)
+A2_Gaussian_Splatting_15474.html
+A2_Gaussian_Splatting_15474_files/
+data/download/
+data/spheres/
+
+# Early tuning runs with old settings, and per-frame orbit images (the GIFs are kept)
+outputs/exp3d/
+outputs/old_256/
+outputs/p3/
+outputs/p7/plain/
+outputs/**/eval/orbit/

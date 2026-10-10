@@ -1,0 +1,657 @@
+=== coffee N=256 fixed
+step     0  psnr   6.96 dB  N   256  (   0.1s)
+step   100  psnr  15.67 dB  N   256  (   0.7s)
+step   200  psnr  19.66 dB  N   256  (   2.4s)
+step   300  psnr  21.17 dB  N   256  (   3.9s)
+step   400  psnr  22.25 dB  N   256  (   5.1s)
+step   500  psnr  23.09 dB  N   256  (   6.0s)
+step   600  psnr  23.72 dB  N   256  (   7.1s)
+step   700  psnr  24.20 dB  N   256  (   8.3s)
+step   800  psnr  24.60 dB  N   256  (   9.5s)
+step   900  psnr  24.92 dB  N   256  (  10.7s)
+step  1000  psnr  25.29 dB  N   256  (  12.1s)
+step  1100  psnr  25.58 dB  N   256  (  13.2s)
+step  1200  psnr  25.86 dB  N   256  (  15.1s)
+step  1300  psnr  26.13 dB  N   256  (  17.6s)
+step  1400  psnr  26.39 dB  N   256  (  20.1s)
+step  1500  psnr  26.61 dB  N   256  (  22.5s)
+step  1600  psnr  26.83 dB  N   256  (  25.2s)
+step  1700  psnr  27.02 dB  N   256  (  27.5s)
+step  1800  psnr  27.17 dB  N   256  (  30.4s)
+step  1900  psnr  27.30 dB  N   256  (  32.8s)
+step  1999  psnr  27.46 dB  N   256  (  34.2s)
+final PSNR 27.46 dB  (36s)  -> outputs/p5/coffee_256
+=== astronaut N=256 fixed
+step     0  psnr   5.65 dB  N   256  (   0.0s)
+step   100  psnr  14.60 dB  N   256  (   0.6s)
+step   200  psnr  17.05 dB  N   256  (   2.4s)
+step   300  psnr  18.08 dB  N   256  (   4.2s)
+step   400  psnr  18.90 dB  N   256  (   5.4s)
+step   500  psnr  19.50 dB  N   256  (   7.3s)
+step   600  psnr  19.95 dB  N   256  (   9.6s)
+step   700  psnr  20.29 dB  N   256  (  11.4s)
+step   800  psnr  20.58 dB  N   256  (  13.4s)
+step   900  psnr  20.88 dB  N   256  (  14.7s)
+step  1000  psnr  21.13 dB  N   256  (  15.9s)
+step  1100  psnr  21.33 dB  N   256  (  17.1s)
+step  1200  psnr  21.49 dB  N   256  (  18.5s)
+step  1300  psnr  21.63 dB  N   256  (  19.7s)
+step  1400  psnr  21.76 dB  N   256  (  21.0s)
+step  1500  psnr  21.88 dB  N   256  (  22.5s)
+step  1600  psnr  21.98 dB  N   256  (  24.0s)
+step  1700  psnr  22.08 dB  N   256  (  26.0s)
+step  1800  psnr  22.20 dB  N   256  (  28.3s)
+step  1900  psnr  22.32 dB  N   256  (  29.6s)
+step  1999  psnr  22.42 dB  N   256  (  30.8s)
+final PSNR 22.42 dB  (31s)  -> outputs/p5/astronaut_256
+=== cat N=256 fixed
+step     0  psnr   7.15 dB  N   256  (   0.0s)
+step   100  psnr  19.36 dB  N   256  (   0.5s)
+step   200  psnr  22.68 dB  N   256  (   1.1s)
+step   300  psnr  23.35 dB  N   256  (   1.7s)
+step   400  psnr  23.94 dB  N   256  (   2.3s)
+step   500  psnr  24.54 dB  N   256  (   2.9s)
+step   600  psnr  25.00 dB  N   256  (   3.5s)
+step   700  psnr  25.47 dB  N   256  (   4.3s)
+step   800  psnr  25.88 dB  N   256  (   6.0s)
+step   900  psnr  26.30 dB  N   256  (   8.1s)
+step  1000  psnr  26.56 dB  N   256  (   9.2s)
+step  1100  psnr  26.76 dB  N   256  (  10.1s)
+step  1200  psnr  26.94 dB  N   256  (  11.0s)
+step  1300  psnr  27.13 dB  N   256  (  11.9s)
+step  1400  psnr  27.26 dB  N   256  (  12.8s)
+step  1500  psnr  27.36 dB  N   256  (  13.7s)
+step  1600  psnr  27.47 dB  N   256  (  14.5s)
+step  1700  psnr  27.57 dB  N   256  (  15.4s)
+step  1800  psnr  27.65 dB  N   256  (  16.7s)
+step  1900  psnr  27.72 dB  N   256  (  17.7s)
+step  1999  psnr  27.79 dB  N   256  (  18.6s)
+final PSNR 27.79 dB  (19s)  -> outputs/p5/cat_256
+=== coffee N=1024 fixed
+step     0  psnr   8.24 dB  N  1024  (   0.0s)
+step   100  psnr  17.85 dB  N  1024  (   2.1s)
+step   200  psnr  21.98 dB  N  1024  (   4.0s)
+step   300  psnr  24.23 dB  N  1024  (   6.2s)
+step   400  psnr  25.85 dB  N  1024  (   8.4s)
+step   500  psnr  26.95 dB  N  1024  (  10.7s)
+step   600  psnr  27.76 dB  N  1024  (  12.9s)
+step   700  psnr  28.45 dB  N  1024  (  15.4s)
+step   800  psnr  28.99 dB  N  1024  (  17.8s)
+step   900  psnr  29.54 dB  N  1024  (  20.1s)
+step  1000  psnr  30.07 dB  N  1024  (  22.4s)
+step  1100  psnr  30.52 dB  N  1024  (  24.8s)
+step  1200  psnr  30.87 dB  N  1024  (  28.2s)
+step  1300  psnr  31.18 dB  N  1024  (  32.1s)
+step  1400  psnr  31.45 dB  N  1024  (  36.2s)
+step  1500  psnr  31.71 dB  N  1024  (  39.2s)
+step  1600  psnr  31.97 dB  N  1024  (  42.7s)
+step  1700  psnr  32.28 dB  N  1024  (  46.4s)
+step  1800  psnr  32.58 dB  N  1024  (  49.0s)
+step  1900  psnr  32.79 dB  N  1024  (  51.4s)
+step  1999  psnr  32.97 dB  N  1024  (  53.8s)
+final PSNR 32.98 dB  (54s)  -> outputs/p5/coffee_1024
+=== astronaut N=1024 fixed
+step     0  psnr   6.91 dB  N  1024  (   0.0s)
+step   100  psnr  16.75 dB  N  1024  (   1.4s)
+step   200  psnr  19.42 dB  N  1024  (   3.4s)
+step   300  psnr  20.92 dB  N  1024  (   6.7s)
+step   400  psnr  21.86 dB  N  1024  (  10.1s)
+step   500  psnr  22.67 dB  N  1024  (  12.3s)
+step   600  psnr  23.39 dB  N  1024  (  14.4s)
+step   700  psnr  24.01 dB  N  1024  (  16.5s)
+step   800  psnr  24.62 dB  N  1024  (  18.6s)
+step   900  psnr  25.13 dB  N  1024  (  20.9s)
+step  1000  psnr  25.55 dB  N  1024  (  22.9s)
+step  1100  psnr  25.98 dB  N  1024  (  25.0s)
+step  1200  psnr  26.32 dB  N  1024  (  27.0s)
+step  1300  psnr  26.62 dB  N  1024  (  29.1s)
+step  1400  psnr  26.87 dB  N  1024  (  31.6s)
+step  1500  psnr  27.08 dB  N  1024  (  34.5s)
+step  1600  psnr  27.28 dB  N  1024  (  36.5s)
+step  1700  psnr  27.49 dB  N  1024  (  38.7s)
+step  1800  psnr  27.69 dB  N  1024  (  40.8s)
+step  1900  psnr  27.90 dB  N  1024  (  43.2s)
+step  1999  psnr  28.08 dB  N  1024  (  45.6s)
+final PSNR 28.08 dB  (46s)  -> outputs/p5/astronaut_1024
+=== cat N=1024 fixed
+step     0  psnr   8.90 dB  N  1024  (   0.0s)
+step   100  psnr  22.68 dB  N  1024  (   1.3s)
+step   200  psnr  25.07 dB  N  1024  (   2.8s)
+step   300  psnr  26.38 dB  N  1024  (   4.2s)
+step   400  psnr  27.47 dB  N  1024  (   5.7s)
+step   500  psnr  28.15 dB  N  1024  (   7.5s)
+step   600  psnr  28.57 dB  N  1024  (   9.3s)
+step   700  psnr  28.94 dB  N  1024  (  11.0s)
+step   800  psnr  29.29 dB  N  1024  (  12.9s)
+step   900  psnr  29.59 dB  N  1024  (  15.1s)
+step  1000  psnr  29.86 dB  N  1024  (  17.4s)
+step  1100  psnr  30.12 dB  N  1024  (  20.5s)
+step  1200  psnr  30.40 dB  N  1024  (  22.9s)
+step  1300  psnr  30.65 dB  N  1024  (  24.6s)
+step  1400  psnr  30.89 dB  N  1024  (  26.3s)
+step  1500  psnr  31.09 dB  N  1024  (  28.5s)
+step  1600  psnr  31.29 dB  N  1024  (  31.1s)
+step  1700  psnr  31.49 dB  N  1024  (  33.3s)
+step  1800  psnr  31.66 dB  N  1024  (  36.9s)
+step  1900  psnr  31.83 dB  N  1024  (  39.5s)
+step  1999  psnr  31.98 dB  N  1024  (  41.3s)
+final PSNR 31.98 dB  (41s)  -> outputs/p5/cat_1024
+=== coffee N=4096 fixed
+step     0  psnr  10.28 dB  N  4096  (   0.0s)
+step   100  psnr  19.24 dB  N  4096  (   3.7s)
+step   200  psnr  24.92 dB  N  4096  (   8.8s)
+step   300  psnr  28.12 dB  N  4096  (  14.4s)
+step   400  psnr  30.16 dB  N  4096  (  19.7s)
+step   500  psnr  31.64 dB  N  4096  (  24.8s)
+step   600  psnr  32.78 dB  N  4096  (  30.3s)
+step   700  psnr  33.69 dB  N  4096  (  35.6s)
+step   800  psnr  34.49 dB  N  4096  (  41.1s)
+step   900  psnr  35.18 dB  N  4096  (  46.7s)
+step  1000  psnr  35.78 dB  N  4096  (  51.8s)
+step  1100  psnr  36.33 dB  N  4096  (  57.3s)
+step  1200  psnr  36.83 dB  N  4096  (  63.0s)
+step  1300  psnr  37.27 dB  N  4096  (  68.7s)
+step  1400  psnr  37.70 dB  N  4096  (  74.4s)
+step  1500  psnr  38.09 dB  N  4096  (  79.4s)
+step  1600  psnr  38.58 dB  N  4096  (  84.5s)
+step  1700  psnr  38.97 dB  N  4096  (  90.2s)
+step  1800  psnr  39.34 dB  N  4096  (  95.9s)
+step  1900  psnr  39.69 dB  N  4096  ( 101.2s)
+step  1999  psnr  40.02 dB  N  4096  ( 106.6s)
+final PSNR 40.03 dB  (107s)  -> outputs/p5/coffee_4096
+=== astronaut N=4096 fixed
+step     0  psnr   9.64 dB  N  4096  (   0.0s)
+step   100  psnr  18.83 dB  N  4096  (   3.6s)
+step   200  psnr  23.03 dB  N  4096  (   8.2s)
+step   300  psnr  25.72 dB  N  4096  (  13.1s)
+step   400  psnr  27.82 dB  N  4096  (  18.1s)
+step   500  psnr  29.30 dB  N  4096  (  23.3s)
+step   600  psnr  30.40 dB  N  4096  (  28.1s)
+step   700  psnr  31.34 dB  N  4096  (  32.5s)
+step   800  psnr  32.14 dB  N  4096  (  37.3s)
+step   900  psnr  32.92 dB  N  4096  (  42.5s)
+step  1000  psnr  33.63 dB  N  4096  (  47.0s)
+step  1100  psnr  34.27 dB  N  4096  (  51.4s)
+step  1200  psnr  34.85 dB  N  4096  (  55.6s)
+step  1300  psnr  35.41 dB  N  4096  (  59.8s)
+step  1400  psnr  35.87 dB  N  4096  (  63.9s)
+step  1500  psnr  36.30 dB  N  4096  (  68.0s)
+step  1600  psnr  36.71 dB  N  4096  (  72.1s)
+step  1700  psnr  37.09 dB  N  4096  (  76.2s)
+step  1800  psnr  37.42 dB  N  4096  (  80.4s)
+step  1900  psnr  37.72 dB  N  4096  (  84.8s)
+step  1999  psnr  38.05 dB  N  4096  (  89.1s)
+final PSNR 38.05 dB  (89s)  -> outputs/p5/astronaut_4096
+=== cat N=4096 fixed
+step     0  psnr  14.04 dB  N  4096  (   0.0s)
+step   100  psnr  26.66 dB  N  4096  (   3.3s)
+step   200  psnr  29.87 dB  N  4096  (   7.1s)
+step   300  psnr  31.55 dB  N  4096  (  11.0s)
+step   400  psnr  32.87 dB  N  4096  (  15.0s)
+step   500  psnr  33.76 dB  N  4096  (  19.2s)
+step   600  psnr  34.55 dB  N  4096  (  24.0s)
+step   700  psnr  35.36 dB  N  4096  (  28.7s)
+step   800  psnr  36.23 dB  N  4096  (  32.9s)
+step   900  psnr  36.97 dB  N  4096  (  37.4s)
+step  1000  psnr  37.51 dB  N  4096  (  42.2s)
+step  1100  psnr  38.04 dB  N  4096  (  46.8s)
+step  1200  psnr  38.56 dB  N  4096  (  51.2s)
+step  1300  psnr  39.01 dB  N  4096  (  55.9s)
+step  1400  psnr  39.41 dB  N  4096  (  60.4s)
+step  1500  psnr  39.84 dB  N  4096  (  65.0s)
+step  1600  psnr  40.27 dB  N  4096  (  69.6s)
+step  1700  psnr  40.64 dB  N  4096  (  74.1s)
+step  1800  psnr  40.98 dB  N  4096  (  78.9s)
+step  1900  psnr  41.32 dB  N  4096  (  84.0s)
+step  1999  psnr  41.66 dB  N  4096  (  88.7s)
+final PSNR 41.66 dB  (89s)  -> outputs/p5/cat_4096
+=== coffee N=256 densified
+step     0  psnr   6.56 dB  N    32  (   0.1s)
+  densify @ 100: +0 cloned, 6 split, -0 pruned -> 38 Gaussians
+step   100  psnr  10.87 dB  N    32  (   0.5s)
+  densify @ 200: +0 cloned, 7 split, -0 pruned -> 45 Gaussians
+step   200  psnr  16.62 dB  N    38  (   1.0s)
+  densify @ 300: +0 cloned, 9 split, -0 pruned -> 54 Gaussians
+step   300  psnr  18.67 dB  N    45  (   2.0s)
+  densify @ 400: +0 cloned, 10 split, -0 pruned -> 64 Gaussians
+step   400  psnr  20.00 dB  N    54  (   3.1s)
+  densify @ 500: +0 cloned, 12 split, -0 pruned -> 76 Gaussians
+step   500  psnr  21.13 dB  N    64  (   3.7s)
+  densify @ 600: +1 cloned, 14 split, -0 pruned -> 91 Gaussians
+step   600  psnr  21.87 dB  N    76  (   4.3s)
+  densify @ 700: +0 cloned, 18 split, -0 pruned -> 109 Gaussians
+step   700  psnr  22.28 dB  N    91  (   5.1s)
+  densify @ 800: +0 cloned, 21 split, -0 pruned -> 130 Gaussians
+step   800  psnr  22.75 dB  N   109  (   6.0s)
+  densify @ 900: +2 cloned, 24 split, -0 pruned -> 156 Gaussians
+step   900  psnr  23.28 dB  N   130  (   6.8s)
+  densify @ 1000: +3 cloned, 28 split, -0 pruned -> 187 Gaussians
+step  1000  psnr  23.72 dB  N   156  (   7.7s)
+  densify @ 1100: +2 cloned, 35 split, -0 pruned -> 224 Gaussians
+step  1100  psnr  24.53 dB  N   187  (   8.7s)
+  densify @ 1200: +2 cloned, 30 split, -0 pruned -> 256 Gaussians
+step  1200  psnr  25.97 dB  N   224  (   9.9s)
+  densify @ 1300: +0 cloned, 0 split, -0 pruned -> 256 Gaussians
+step  1300  psnr  26.70 dB  N   256  (  11.1s)
+  densify @ 1400: +0 cloned, 0 split, -0 pruned -> 256 Gaussians
+step  1400  psnr  26.89 dB  N   256  (  12.3s)
+  densify @ 1500: +0 cloned, 0 split, -0 pruned -> 256 Gaussians
+step  1500  psnr  27.06 dB  N   256  (  13.6s)
+step  1600  psnr  27.16 dB  N   256  (  14.8s)
+step  1700  psnr  27.31 dB  N   256  (  16.0s)
+step  1800  psnr  27.42 dB  N   256  (  17.3s)
+step  1900  psnr  27.60 dB  N   256  (  18.7s)
+step  1999  psnr  27.75 dB  N   256  (  20.0s)
+final PSNR 27.75 dB  (20s)  -> outputs/p4/coffee_256
+=== astronaut N=256 densified
+step     0  psnr   5.28 dB  N    32  (   0.0s)
+  densify @ 100: +0 cloned, 6 split, -0 pruned -> 38 Gaussians
+step   100  psnr   9.24 dB  N    32  (   0.4s)
+  densify @ 200: +0 cloned, 7 split, -0 pruned -> 45 Gaussians
+step   200  psnr  14.44 dB  N    38  (   0.8s)
+  densify @ 300: +0 cloned, 9 split, -0 pruned -> 54 Gaussians
+step   300  psnr  15.75 dB  N    45  (   1.3s)
+  densify @ 400: +0 cloned, 10 split, -0 pruned -> 64 Gaussians
+step   400  psnr  16.44 dB  N    54  (   1.9s)
+  densify @ 500: +0 cloned, 12 split, -0 pruned -> 76 Gaussians
+step   500  psnr  16.97 dB  N    64  (   2.6s)
+  densify @ 600: +0 cloned, 15 split, -0 pruned -> 91 Gaussians
+step   600  psnr  17.37 dB  N    76  (   3.3s)
+  densify @ 700: +1 cloned, 17 split, -0 pruned -> 109 Gaussians
+step   700  psnr  17.79 dB  N    91  (   4.0s)
+  densify @ 800: +3 cloned, 18 split, -0 pruned -> 130 Gaussians
+step   800  psnr  18.04 dB  N   109  (   4.7s)
+  densify @ 900: +6 cloned, 20 split, -0 pruned -> 156 Gaussians
+step   900  psnr  18.26 dB  N   130  (   6.1s)
+  densify @ 1000: +7 cloned, 24 split, -0 pruned -> 187 Gaussians
+step  1000  psnr  18.41 dB  N   156  (   8.1s)
+  densify @ 1100: +9 cloned, 28 split, -0 pruned -> 224 Gaussians
+step  1100  psnr  18.59 dB  N   187  (  10.4s)
+  densify @ 1200: +3 cloned, 29 split, -0 pruned -> 256 Gaussians
+step  1200  psnr  18.86 dB  N   224  (  11.6s)
+  densify @ 1300: +0 cloned, 0 split, -0 pruned -> 256 Gaussians
+step  1300  psnr  19.64 dB  N   256  (  12.8s)
+  densify @ 1400: +0 cloned, 0 split, -0 pruned -> 256 Gaussians
+step  1400  psnr  19.81 dB  N   256  (  14.0s)
+  densify @ 1500: +0 cloned, 0 split, -0 pruned -> 256 Gaussians
+step  1500  psnr  19.89 dB  N   256  (  15.2s)
+step  1600  psnr  19.94 dB  N   256  (  16.9s)
+step  1700  psnr  20.01 dB  N   256  (  18.1s)
+step  1800  psnr  20.07 dB  N   256  (  20.0s)
+step  1900  psnr  20.12 dB  N   256  (  22.4s)
+step  1999  psnr  20.15 dB  N   256  (  24.7s)
+final PSNR 20.15 dB  (25s)  -> outputs/p4/astronaut_256
+=== cat N=256 densified
+step     0  psnr   6.62 dB  N    32  (   0.0s)
+  densify @ 100: +0 cloned, 6 split, -0 pruned -> 38 Gaussians
+step   100  psnr  12.40 dB  N    32  (   0.9s)
+  densify @ 200: +0 cloned, 7 split, -0 pruned -> 45 Gaussians
+step   200  psnr  20.38 dB  N    38  (   1.3s)
+  densify @ 300: +0 cloned, 9 split, -0 pruned -> 54 Gaussians
+step   300  psnr  21.83 dB  N    45  (   1.9s)
+  densify @ 400: +0 cloned, 10 split, -0 pruned -> 64 Gaussians
+step   400  psnr  22.61 dB  N    54  (   2.6s)
+  densify @ 500: +0 cloned, 12 split, -0 pruned -> 76 Gaussians
+step   500  psnr  22.94 dB  N    64  (   3.2s)
+  densify @ 600: +0 cloned, 15 split, -0 pruned -> 91 Gaussians
+step   600  psnr  23.23 dB  N    76  (   3.8s)
+  densify @ 700: +0 cloned, 18 split, -0 pruned -> 109 Gaussians
+step   700  psnr  23.58 dB  N    91  (   4.4s)
+  densify @ 800: +0 cloned, 21 split, -0 pruned -> 130 Gaussians
+step   800  psnr  24.12 dB  N   109  (   5.9s)
+  densify @ 900: +0 cloned, 26 split, -0 pruned -> 156 Gaussians
+step   900  psnr  24.62 dB  N   130  (   7.4s)
+  densify @ 1000: +0 cloned, 31 split, -0 pruned -> 187 Gaussians
+step  1000  psnr  25.06 dB  N   156  (   8.7s)
+  densify @ 1100: +1 cloned, 36 split, -0 pruned -> 224 Gaussians
+step  1100  psnr  26.02 dB  N   187  (  11.0s)
+  densify @ 1200: +1 cloned, 31 split, -0 pruned -> 256 Gaussians
+step  1200  psnr  26.95 dB  N   224  (  12.2s)
+  densify @ 1300: +0 cloned, 0 split, -0 pruned -> 256 Gaussians
+step  1300  psnr  27.76 dB  N   256  (  13.4s)
+  densify @ 1400: +0 cloned, 0 split, -0 pruned -> 256 Gaussians
+step  1400  psnr  27.99 dB  N   256  (  14.6s)
+  densify @ 1500: +0 cloned, 0 split, -0 pruned -> 256 Gaussians
+step  1500  psnr  28.13 dB  N   256  (  15.8s)
+step  1600  psnr  28.28 dB  N   256  (  17.0s)
+step  1700  psnr  28.37 dB  N   256  (  18.2s)
+step  1800  psnr  28.46 dB  N   256  (  19.4s)
+step  1900  psnr  28.59 dB  N   256  (  20.6s)
+step  1999  psnr  28.66 dB  N   256  (  21.8s)
+final PSNR 28.66 dB  (22s)  -> outputs/p4/cat_256
+=== coffee N=1024 densified
+step     0  psnr   6.74 dB  N   128  (   0.0s)
+  densify @ 100: +0 cloned, 25 split, -0 pruned -> 153 Gaussians
+step   100  psnr  14.46 dB  N   128  (   0.7s)
+  densify @ 200: +1 cloned, 29 split, -0 pruned -> 183 Gaussians
+step   200  psnr  20.46 dB  N   153  (   1.6s)
+  densify @ 300: +1 cloned, 35 split, -0 pruned -> 219 Gaussians
+step   300  psnr  23.28 dB  N   183  (   3.3s)
+  densify @ 400: +6 cloned, 37 split, -0 pruned -> 262 Gaussians
+step   400  psnr  24.75 dB  N   219  (   4.2s)
+  densify @ 500: +13 cloned, 39 split, -0 pruned -> 314 Gaussians
+step   500  psnr  25.90 dB  N   262  (   5.2s)
+  densify @ 600: +23 cloned, 39 split, -0 pruned -> 376 Gaussians
+step   600  psnr  26.68 dB  N   314  (   6.9s)
+  densify @ 700: +34 cloned, 41 split, -0 pruned -> 451 Gaussians
+step   700  psnr  27.30 dB  N   376  (   8.2s)
+  densify @ 800: +37 cloned, 53 split, -0 pruned -> 541 Gaussians
+step   800  psnr  27.66 dB  N   451  (   9.7s)
+  densify @ 900: +43 cloned, 65 split, -0 pruned -> 649 Gaussians
+step   900  psnr  28.05 dB  N   541  (  11.2s)
+  densify @ 1000: +60 cloned, 69 split, -0 pruned -> 778 Gaussians
+step  1000  psnr  28.39 dB  N   649  (  12.7s)
+  densify @ 1100: +59 cloned, 96 split, -0 pruned -> 933 Gaussians
+step  1100  psnr  28.94 dB  N   778  (  14.5s)
+  densify @ 1200: +32 cloned, 59 split, -0 pruned -> 1024 Gaussians
+step  1200  psnr  29.38 dB  N   933  (  16.8s)
+  densify @ 1300: +0 cloned, 0 split, -0 pruned -> 1024 Gaussians
+step  1300  psnr  29.76 dB  N  1024  (  18.9s)
+  densify @ 1400: +0 cloned, 0 split, -0 pruned -> 1024 Gaussians
+step  1400  psnr  29.91 dB  N  1024  (  21.1s)
+  densify @ 1500: +0 cloned, 0 split, -0 pruned -> 1024 Gaussians
+step  1500  psnr  30.02 dB  N  1024  (  23.2s)
+step  1600  psnr  30.12 dB  N  1024  (  25.3s)
+step  1700  psnr  30.21 dB  N  1024  (  28.3s)
+step  1800  psnr  30.29 dB  N  1024  (  30.5s)
+step  1900  psnr  30.38 dB  N  1024  (  33.1s)
+step  1999  psnr  30.49 dB  N  1024  (  36.0s)
+final PSNR 30.49 dB  (36s)  -> outputs/p4/coffee_1024
+=== astronaut N=1024 densified
+step     0  psnr   5.44 dB  N   128  (   0.0s)
+  densify @ 100: +0 cloned, 25 split, -0 pruned -> 153 Gaussians
+step   100  psnr  13.41 dB  N   128  (   0.5s)
+  densify @ 200: +1 cloned, 29 split, -0 pruned -> 183 Gaussians
+step   200  psnr  17.23 dB  N   153  (   1.7s)
+  densify @ 300: +1 cloned, 35 split, -0 pruned -> 219 Gaussians
+step   300  psnr  18.80 dB  N   183  (   3.5s)
+  densify @ 400: +1 cloned, 42 split, -0 pruned -> 262 Gaussians
+step   400  psnr  19.71 dB  N   219  (   5.5s)
+  densify @ 500: +6 cloned, 46 split, -0 pruned -> 314 Gaussians
+step   500  psnr  20.51 dB  N   262  (   7.0s)
+  densify @ 600: +6 cloned, 56 split, -0 pruned -> 376 Gaussians
+step   600  psnr  21.20 dB  N   314  (   8.6s)
+  densify @ 700: +18 cloned, 57 split, -0 pruned -> 451 Gaussians
+step   700  psnr  21.90 dB  N   376  (  10.5s)
+  densify @ 800: +19 cloned, 71 split, -0 pruned -> 541 Gaussians
+step   800  psnr  22.40 dB  N   451  (  12.3s)
+  densify @ 900: +50 cloned, 58 split, -0 pruned -> 649 Gaussians
+step   900  psnr  22.82 dB  N   541  (  14.1s)
+  densify @ 1000: +76 cloned, 53 split, -0 pruned -> 778 Gaussians
+step  1000  psnr  23.05 dB  N   649  (  16.8s)
+  densify @ 1100: +97 cloned, 58 split, -0 pruned -> 933 Gaussians
+step  1100  psnr  23.31 dB  N   778  (  18.5s)
+  densify @ 1200: +55 cloned, 36 split, -0 pruned -> 1024 Gaussians
+step  1200  psnr  23.62 dB  N   933  (  20.7s)
+  densify @ 1300: +0 cloned, 0 split, -0 pruned -> 1024 Gaussians
+step  1300  psnr  23.90 dB  N  1024  (  23.2s)
+  densify @ 1400: +0 cloned, 0 split, -0 pruned -> 1024 Gaussians
+step  1400  psnr  24.17 dB  N  1024  (  25.2s)
+  densify @ 1500: +0 cloned, 0 split, -0 pruned -> 1024 Gaussians
+step  1500  psnr  24.31 dB  N  1024  (  27.0s)
+step  1600  psnr  24.49 dB  N  1024  (  29.0s)
+step  1700  psnr  24.66 dB  N  1024  (  31.1s)
+step  1800  psnr  24.75 dB  N  1024  (  33.1s)
+step  1900  psnr  24.83 dB  N  1024  (  35.1s)
+step  1999  psnr  24.90 dB  N  1024  (  37.1s)
+final PSNR 24.90 dB  (37s)  -> outputs/p4/astronaut_1024
+=== cat N=1024 densified
+step     0  psnr   6.85 dB  N   128  (   0.0s)
+  densify @ 100: +0 cloned, 25 split, -0 pruned -> 153 Gaussians
+step   100  psnr  17.89 dB  N   128  (   0.4s)
+  densify @ 200: +0 cloned, 30 split, -0 pruned -> 183 Gaussians
+step   200  psnr  23.19 dB  N   153  (   1.0s)
+  densify @ 300: +0 cloned, 36 split, -0 pruned -> 219 Gaussians
+step   300  psnr  24.60 dB  N   183  (   1.6s)
+  densify @ 400: +0 cloned, 43 split, -0 pruned -> 262 Gaussians
+step   400  psnr  25.54 dB  N   219  (   2.4s)
+  densify @ 500: +1 cloned, 51 split, -0 pruned -> 314 Gaussians
+step   500  psnr  26.47 dB  N   262  (   3.2s)
+  densify @ 600: +4 cloned, 58 split, -0 pruned -> 376 Gaussians
+step   600  psnr  27.27 dB  N   314  (   4.4s)
+  densify @ 700: +7 cloned, 68 split, -0 pruned -> 451 Gaussians
+step   700  psnr  28.12 dB  N   376  (   5.6s)
+  densify @ 800: +11 cloned, 79 split, -0 pruned -> 541 Gaussians
+step   800  psnr  28.96 dB  N   451  (   7.1s)
+  densify @ 900: +17 cloned, 91 split, -0 pruned -> 649 Gaussians
+step   900  psnr  29.51 dB  N   541  (   8.8s)
+  densify @ 1000: +25 cloned, 104 split, -0 pruned -> 778 Gaussians
+step  1000  psnr  29.96 dB  N   649  (  10.6s)
+  densify @ 1100: +27 cloned, 128 split, -0 pruned -> 933 Gaussians
+step  1100  psnr  30.40 dB  N   778  (  12.8s)
+  densify @ 1200: +13 cloned, 78 split, -0 pruned -> 1024 Gaussians
+step  1200  psnr  30.95 dB  N   933  (  15.2s)
+  densify @ 1300: +0 cloned, 0 split, -0 pruned -> 1024 Gaussians
+step  1300  psnr  31.68 dB  N  1024  (  18.3s)
+  densify @ 1400: +0 cloned, 0 split, -0 pruned -> 1024 Gaussians
+step  1400  psnr  32.08 dB  N  1024  (  20.9s)
+  densify @ 1500: +0 cloned, 0 split, -0 pruned -> 1024 Gaussians
+step  1500  psnr  32.28 dB  N  1024  (  23.4s)
+step  1600  psnr  32.40 dB  N  1024  (  25.9s)
+step  1700  psnr  32.48 dB  N  1024  (  28.5s)
+step  1800  psnr  32.57 dB  N  1024  (  32.0s)
+step  1900  psnr  32.66 dB  N  1024  (  35.8s)
+step  1999  psnr  32.74 dB  N  1024  (  39.9s)
+final PSNR 32.74 dB  (40s)  -> outputs/p4/cat_1024
+=== coffee N=4096 densified
+step     0  psnr   7.41 dB  N   512  (   0.0s)
+  densify @ 100: +0 cloned, 102 split, -0 pruned -> 614 Gaussians
+step   100  psnr  16.90 dB  N   512  (   1.3s)
+  densify @ 200: +7 cloned, 115 split, -0 pruned -> 736 Gaussians
+step   200  psnr  23.88 dB  N   614  (   3.3s)
+  densify @ 300: +13 cloned, 134 split, -0 pruned -> 883 Gaussians
+step   300  psnr  27.25 dB  N   736  (   5.8s)
+  densify @ 400: +38 cloned, 138 split, -0 pruned -> 1059 Gaussians
+step   400  psnr  29.29 dB  N   883  (   8.2s)
+  densify @ 500: +82 cloned, 129 split, -0 pruned -> 1270 Gaussians
+step   500  psnr  30.73 dB  N  1059  (  10.6s)
+  densify @ 600: +136 cloned, 118 split, -0 pruned -> 1524 Gaussians
+step   600  psnr  31.54 dB  N  1270  (  13.0s)
+  densify @ 700: +181 cloned, 123 split, -0 pruned -> 1828 Gaussians
+step   700  psnr  33.00 dB  N  1524  (  15.5s)
+  densify @ 800: +228 cloned, 137 split, -0 pruned -> 2193 Gaussians
+step   800  psnr  33.96 dB  N  1828  (  18.3s)
+  densify @ 900: +308 cloned, 130 split, -0 pruned -> 2631 Gaussians
+step   900  psnr  34.78 dB  N  2193  (  21.4s)
+  densify @ 1000: +367 cloned, 159 split, -0 pruned -> 3157 Gaussians
+step  1000  psnr  35.55 dB  N  2631  (  24.8s)
+  densify @ 1100: +400 cloned, 231 split, -0 pruned -> 3788 Gaussians
+step  1100  psnr  36.04 dB  N  3157  (  28.7s)
+  densify @ 1200: +223 cloned, 85 split, -0 pruned -> 4096 Gaussians
+step  1200  psnr  36.81 dB  N  3788  (  33.7s)
+  densify @ 1300: +0 cloned, 0 split, -0 pruned -> 4096 Gaussians
+step  1300  psnr  37.32 dB  N  4096  (  38.9s)
+  densify @ 1400: +0 cloned, 0 split, -0 pruned -> 4096 Gaussians
+step  1400  psnr  37.75 dB  N  4096  (  43.9s)
+  densify @ 1500: +0 cloned, 0 split, -0 pruned -> 4096 Gaussians
+step  1500  psnr  38.05 dB  N  4096  (  48.8s)
+step  1600  psnr  38.23 dB  N  4096  (  53.7s)
+step  1700  psnr  38.40 dB  N  4096  (  58.7s)
+step  1800  psnr  38.58 dB  N  4096  (  63.6s)
+step  1900  psnr  38.70 dB  N  4096  (  68.8s)
+step  1999  psnr  38.84 dB  N  4096  (  73.7s)
+final PSNR 38.84 dB  (74s)  -> outputs/p4/coffee_4096
+=== astronaut N=4096 densified
+step     0  psnr   6.09 dB  N   512  (   0.0s)
+  densify @ 100: +0 cloned, 102 split, -0 pruned -> 614 Gaussians
+step   100  psnr  15.65 dB  N   512  (   0.9s)
+  densify @ 200: +9 cloned, 113 split, -0 pruned -> 736 Gaussians
+step   200  psnr  20.10 dB  N   614  (   2.5s)
+  densify @ 300: +21 cloned, 126 split, -0 pruned -> 883 Gaussians
+step   300  psnr  22.64 dB  N   736  (   4.7s)
+  densify @ 400: +40 cloned, 136 split, -0 pruned -> 1059 Gaussians
+step   400  psnr  24.24 dB  N   883  (   6.5s)
+  densify @ 500: +80 cloned, 131 split, -0 pruned -> 1270 Gaussians
+step   500  psnr  25.18 dB  N  1059  (   8.4s)
+  densify @ 600: +116 cloned, 138 split, -0 pruned -> 1524 Gaussians
+step   600  psnr  26.10 dB  N  1270  (  10.5s)
+  densify @ 700: +157 cloned, 147 split, -0 pruned -> 1828 Gaussians
+step   700  psnr  26.86 dB  N  1524  (  13.5s)
+  densify @ 800: +220 cloned, 145 split, -0 pruned -> 2193 Gaussians
+step   800  psnr  27.52 dB  N  1828  (  17.6s)
+  densify @ 900: +266 cloned, 172 split, -0 pruned -> 2631 Gaussians
+step   900  psnr  28.21 dB  N  2193  (  21.8s)
+  densify @ 1000: +354 cloned, 172 split, -0 pruned -> 3157 Gaussians
+step  1000  psnr  29.54 dB  N  2631  (  25.4s)
+  densify @ 1100: +431 cloned, 200 split, -0 pruned -> 3788 Gaussians
+step  1100  psnr  30.82 dB  N  3157  (  29.3s)
+  densify @ 1200: +203 cloned, 105 split, -0 pruned -> 4096 Gaussians
+step  1200  psnr  32.30 dB  N  3788  (  33.6s)
+  densify @ 1300: +0 cloned, 0 split, -0 pruned -> 4096 Gaussians
+step  1300  psnr  33.34 dB  N  4096  (  38.3s)
+  densify @ 1400: +0 cloned, 0 split, -0 pruned -> 4096 Gaussians
+step  1400  psnr  33.95 dB  N  4096  (  43.0s)
+  densify @ 1500: +0 cloned, 0 split, -0 pruned -> 4096 Gaussians
+step  1500  psnr  34.25 dB  N  4096  (  47.9s)
+step  1600  psnr  34.49 dB  N  4096  (  53.3s)
+step  1700  psnr  34.73 dB  N  4096  (  58.1s)
+step  1800  psnr  34.93 dB  N  4096  (  63.3s)
+step  1900  psnr  35.08 dB  N  4096  (  68.0s)
+step  1999  psnr  35.22 dB  N  4096  (  72.8s)
+final PSNR 35.22 dB  (73s)  -> outputs/p4/astronaut_4096
+=== cat N=4096 densified
+step     0  psnr   7.74 dB  N   512  (   0.0s)
+  densify @ 100: +0 cloned, 102 split, -0 pruned -> 614 Gaussians
+step   100  psnr  20.91 dB  N   512  (   0.8s)
+  densify @ 200: +0 cloned, 122 split, -0 pruned -> 736 Gaussians
+step   200  psnr  26.12 dB  N   614  (   2.0s)
+  densify @ 300: +13 cloned, 134 split, -0 pruned -> 883 Gaussians
+step   300  psnr  28.34 dB  N   736  (   3.3s)
+  densify @ 400: +18 cloned, 158 split, -0 pruned -> 1059 Gaussians
+step   400  psnr  29.68 dB  N   883  (   4.7s)
+  densify @ 500: +51 cloned, 160 split, -0 pruned -> 1270 Gaussians
+step   500  psnr  30.93 dB  N  1059  (   6.7s)
+  densify @ 600: +93 cloned, 161 split, -0 pruned -> 1524 Gaussians
+step   600  psnr  31.76 dB  N  1270  (   9.0s)
+  densify @ 700: +100 cloned, 204 split, -0 pruned -> 1828 Gaussians
+step   700  psnr  32.43 dB  N  1524  (  11.7s)
+  densify @ 800: +150 cloned, 215 split, -0 pruned -> 2193 Gaussians
+step   800  psnr  33.00 dB  N  1828  (  15.1s)
+  densify @ 900: +219 cloned, 219 split, -0 pruned -> 2631 Gaussians
+step   900  psnr  33.50 dB  N  2193  (  18.8s)
+  densify @ 1000: +252 cloned, 274 split, -0 pruned -> 3157 Gaussians
+step  1000  psnr  34.08 dB  N  2631  (  23.0s)
+  densify @ 1100: +314 cloned, 317 split, -0 pruned -> 3788 Gaussians
+step  1100  psnr  35.00 dB  N  3157  (  27.8s)
+  densify @ 1200: +125 cloned, 183 split, -0 pruned -> 4096 Gaussians
+step  1200  psnr  35.93 dB  N  3788  (  33.3s)
+  densify @ 1300: +0 cloned, 0 split, -0 pruned -> 4096 Gaussians
+step  1300  psnr  36.74 dB  N  4096  (  39.4s)
+  densify @ 1400: +0 cloned, 0 split, -0 pruned -> 4096 Gaussians
+step  1400  psnr  37.34 dB  N  4096  (  45.5s)
+  densify @ 1500: +0 cloned, 0 split, -0 pruned -> 4096 Gaussians
+step  1500  psnr  37.65 dB  N  4096  (  51.5s)
+step  1600  psnr  37.91 dB  N  4096  (  57.6s)
+step  1700  psnr  38.14 dB  N  4096  (  63.7s)
+step  1800  psnr  38.31 dB  N  4096  (  69.8s)
+step  1900  psnr  38.58 dB  N  4096  (  75.8s)
+step  1999  psnr  38.84 dB  N  4096  (  82.2s)
+final PSNR 38.84 dB  (82s)  -> outputs/p4/cat_4096
+| image | N | fixed PSNR (dB) | densified PSNR (dB) | Δ (dB) |
+|---|---|---|---|---|
+| coffee | 256 | 27.46 | 27.75 | +0.29 |
+| coffee | 1024 | 32.98 | 30.49 | -2.49 |
+| coffee | 4096 | 40.03 | 38.84 | -1.19 |
+| astronaut | 256 | 22.42 | 20.15 | -2.27 |
+| astronaut | 1024 | 28.08 | 24.90 | -3.18 |
+| astronaut | 4096 | 38.05 | 35.22 | -2.84 |
+| cat | 256 | 27.79 | 28.66 | +0.87 |
+| cat | 1024 | 31.98 | 32.74 | +0.76 |
+| cat | 4096 | 41.66 | 38.84 | -2.81 |
+=== p7/cloud
+step     0  train psnr (avg of recent steps)  11.86 dB  N  4000  (   0.7s)
+step   100  train psnr (avg of recent steps)  14.81 dB  N  4000  (   6.4s)
+step   200  train psnr (avg of recent steps)  16.78 dB  N  4000  (  12.2s)
+step   300  train psnr (avg of recent steps)  18.39 dB  N  4000  (  18.4s)
+step   400  train psnr (avg of recent steps)  19.72 dB  N  4000  (  24.5s)
+step   500  train psnr (avg of recent steps)  20.79 dB  N  4000  (  31.0s)
+step   600  train psnr (avg of recent steps)  21.55 dB  N  4000  (  37.9s)
+step   700  train psnr (avg of recent steps)  21.93 dB  N  4000  (  44.9s)
+step   800  train psnr (avg of recent steps)  22.47 dB  N  4000  (  51.9s)
+step   900  train psnr (avg of recent steps)  22.85 dB  N  4000  (  59.3s)
+step  1000  train psnr (avg of recent steps)  23.23 dB  N  4000  (  66.9s)
+step  1100  train psnr (avg of recent steps)  23.43 dB  N  4000  (  74.9s)
+step  1200  train psnr (avg of recent steps)  23.87 dB  N  4000  (  82.4s)
+step  1300  train psnr (avg of recent steps)  24.04 dB  N  4000  (  89.6s)
+step  1400  train psnr (avg of recent steps)  24.11 dB  N  4000  (  96.7s)
+step  1499  train psnr (avg of recent steps)  24.46 dB  N  4000  ( 104.4s)
+train PSNR 24.98 dB   held-out PSNR 17.95 dB   gap 7.03 dB
+-> outputs/p7/cloud/eval
+N=4000  train PSNR 24.98 dB  val PSNR 17.95 dB  (106s)  -> outputs/p7/cloud
+=== p7/cloud_bg
+step     0  train psnr (avg of recent steps)  12.66 dB  N  5000  (   0.1s)
+step   100  train psnr (avg of recent steps)  17.03 dB  N  5000  (   8.1s)
+step   200  train psnr (avg of recent steps)  24.04 dB  N  5000  (  17.0s)
+step   300  train psnr (avg of recent steps)  26.64 dB  N  5000  (  26.4s)
+step   400  train psnr (avg of recent steps)  27.96 dB  N  5000  (  35.8s)
+step   500  train psnr (avg of recent steps)  29.01 dB  N  5000  (  44.7s)
+step   600  train psnr (avg of recent steps)  29.38 dB  N  5000  (  53.5s)
+step   700  train psnr (avg of recent steps)  29.95 dB  N  5000  (  62.3s)
+step   800  train psnr (avg of recent steps)  30.04 dB  N  5000  (  70.4s)
+step   900  train psnr (avg of recent steps)  30.42 dB  N  5000  (  78.7s)
+step  1000  train psnr (avg of recent steps)  30.87 dB  N  5000  (  86.7s)
+step  1100  train psnr (avg of recent steps)  30.80 dB  N  5000  (  94.7s)
+step  1200  train psnr (avg of recent steps)  30.92 dB  N  5000  ( 103.2s)
+step  1300  train psnr (avg of recent steps)  31.40 dB  N  5000  ( 111.7s)
+step  1400  train psnr (avg of recent steps)  31.42 dB  N  5000  ( 120.4s)
+step  1499  train psnr (avg of recent steps)  31.60 dB  N  5000  ( 128.7s)
+train PSNR 31.68 dB   held-out PSNR 30.67 dB   gap 1.01 dB
+-> outputs/p7/cloud_bg/eval
+N=5000  train PSNR 31.68 dB  val PSNR 30.67 dB  (129s)  -> outputs/p7/cloud_bg
+=== p8/densify
+step     0  train psnr (avg of recent steps)   8.90 dB  N  1000  (   0.1s)
+step   100  train psnr (avg of recent steps)  14.02 dB  N  1000  (   2.6s)
+  densify @ 200: +0 cloned, 350 split, -0 pruned -> 1350 Gaussians
+step   200  train psnr (avg of recent steps)  16.56 dB  N  1000  (   5.3s)
+step   300  train psnr (avg of recent steps)  17.24 dB  N  1350  (   8.7s)
+  densify @ 400: +1 cloned, 471 split, -0 pruned -> 1822 Gaussians
+step   400  train psnr (avg of recent steps)  19.27 dB  N  1350  (  12.8s)
+step   500  train psnr (avg of recent steps)  18.92 dB  N  1822  (  16.7s)
+  densify @ 600: +0 cloned, 637 split, -0 pruned -> 2459 Gaussians
+step   600  train psnr (avg of recent steps)  21.30 dB  N  1822  (  20.5s)
+step   700  train psnr (avg of recent steps)  19.63 dB  N  2459  (  25.1s)
+  densify @ 800: +6 cloned, 854 split, -0 pruned -> 3319 Gaussians
+step   800  train psnr (avg of recent steps)  22.27 dB  N  2459  (  29.8s)
+step   900  train psnr (avg of recent steps)  20.37 dB  N  3319  (  35.2s)
+  densify @ 1000: +7 cloned, 674 split, -0 pruned -> 4000 Gaussians
+step  1000  train psnr (avg of recent steps)  23.38 dB  N  3319  (  40.7s)
+step  1100  train psnr (avg of recent steps)  20.97 dB  N  4000  (  47.1s)
+step  1200  train psnr (avg of recent steps)  24.62 dB  N  4000  (  53.4s)
+step  1300  train psnr (avg of recent steps)  26.19 dB  N  4000  (  59.7s)
+step  1400  train psnr (avg of recent steps)  27.10 dB  N  4000  (  66.1s)
+step  1499  train psnr (avg of recent steps)  27.83 dB  N  4000  (  72.4s)
+train PSNR 28.28 dB   held-out PSNR 16.65 dB   gap 11.63 dB
+-> outputs/p8/densify/eval
+N=4000  train PSNR 28.28 dB  val PSNR 16.65 dB  (72s)  -> outputs/p8/densify
+=== p8/densify_bg
+step     0  train psnr (avg of recent steps)  12.70 dB  N  2000  (   0.1s)
+step   100  train psnr (avg of recent steps)  17.24 dB  N  2000  (   3.0s)
+  densify @ 200: +262 cloned, 438 split, -0 pruned -> 2700 Gaussians
+step   200  train psnr (avg of recent steps)  23.53 dB  N  2000  (   6.5s)
+step   300  train psnr (avg of recent steps)  26.33 dB  N  2700  (  10.9s)
+  densify @ 400: +226 cloned, 718 split, -0 pruned -> 3644 Gaussians
+step   400  train psnr (avg of recent steps)  28.44 dB  N  2700  (  15.5s)
+step   500  train psnr (avg of recent steps)  28.15 dB  N  3644  (  21.3s)
+  densify @ 600: +224 cloned, 1051 split, -0 pruned -> 4919 Gaussians
+step   600  train psnr (avg of recent steps)  30.10 dB  N  3644  (  27.5s)
+step   700  train psnr (avg of recent steps)  28.58 dB  N  4919  (  35.8s)
+  densify @ 800: +22 cloned, 59 split, -0 pruned -> 5000 Gaussians
+step   800  train psnr (avg of recent steps)  30.29 dB  N  4919  (  44.6s)
+step   900  train psnr (avg of recent steps)  30.36 dB  N  5000  (  54.3s)
+  densify @ 1000: +0 cloned, 0 split, -0 pruned -> 5000 Gaussians
+step  1000  train psnr (avg of recent steps)  31.00 dB  N  5000  (  63.8s)
+step  1100  train psnr (avg of recent steps)  31.61 dB  N  5000  (  73.8s)
+step  1200  train psnr (avg of recent steps)  32.24 dB  N  5000  (  83.6s)
+step  1300  train psnr (avg of recent steps)  32.46 dB  N  5000  (  93.7s)
+step  1400  train psnr (avg of recent steps)  32.47 dB  N  5000  ( 103.7s)
+step  1499  train psnr (avg of recent steps)  32.72 dB  N  5000  ( 113.7s)
+train PSNR 32.64 dB   held-out PSNR 30.95 dB   gap 1.69 dB
+-> outputs/p8/densify_bg/eval
+N=5000  train PSNR 32.64 dB  val PSNR 30.95 dB  (114s)  -> outputs/p8/densify_bg
+| run | background shell | densify | scene Gaussians (final) | train PSNR | held-out PSNR | gap | time |
+|---|---|---|---|---|---|---|---|
+| p7/cloud | no | no | 4000 | 24.98 | 17.95 | 7.03 | 106s |
+| p7/cloud_bg | yes | no | 4000 | 31.68 | 30.67 | 1.01 | 129s |
+| p8/densify | no | yes | 4000 | 28.28 | 16.65 | 11.63 | 72s |
+| p8/densify_bg | yes | yes | 4000 | 32.64 | 30.95 | 1.69 | 114s |
+columns: ground truth | p7/cloud | p7/cloud_bg | p8/densify | p8/densify_bg   (held-out views [1, 3, 9])

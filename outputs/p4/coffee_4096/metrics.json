@@ -1,0 +1,26 @@
+{
+  "image": "coffee",
+  "size": 128,
+  "n": 4096,
+  "densify": true,
+  "n_init": 512,
+  "steps": 2000,
+  "lr": 0.01,
+  "lr_mu": 0.1,
+  "seed": 0,
+  "device": "mps",
+  "seconds": 73.7,
+  "densify_config": {
+    "every": 100,
+    "start": 100,
+    "stop": 1500,
+    "grad_threshold": 0.0002,
+    "top_frac": 0.2,
+    "size_threshold": 0.02,
+    "split_scale": 1.6,
+    "prune_opacity": 0.005
+  },
+  "final_psnr": 38.83767865599114,
+  "final_n": 4096,
+  "num_values": 36864
+}

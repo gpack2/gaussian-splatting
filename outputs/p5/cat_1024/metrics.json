@@ -1,0 +1,16 @@
+{
+  "image": "cat",
+  "size": 128,
+  "n": 1024,
+  "densify": false,
+  "n_init": 1024,
+  "steps": 2000,
+  "lr": 0.01,
+  "lr_mu": 0.1,
+  "seed": 0,
+  "device": "mps",
+  "seconds": 41.3,
+  "final_psnr": 31.982084561648243,
+  "final_n": 1024,
+  "num_values": 9216
+}

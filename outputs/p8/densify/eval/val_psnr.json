@@ -1,0 +1,292 @@
+{
+  "mean": {
+    "train": 28.276030746672124,
+    "val": 16.649455917152334
+  },
+  "views": {
+    "train": [
+      {
+        "view": "train/000.png",
+        "elevation": -5.0,
+        "psnr": 27.62940640790322
+      },
+      {
+        "view": "train/001.png",
+        "elevation": -5.0,
+        "psnr": 28.054840633938795
+      },
+      {
+        "view": "train/002.png",
+        "elevation": -5.0,
+        "psnr": 28.136514627170722
+      },
+      {
+        "view": "train/003.png",
+        "elevation": -5.0,
+        "psnr": 28.03335729444754
+      },
+      {
+        "view": "train/004.png",
+        "elevation": -5.0,
+        "psnr": 28.032178330400566
+      },
+      {
+        "view": "train/005.png",
+        "elevation": -5.0,
+        "psnr": 27.45058787068107
+      },
+      {
+        "view": "train/006.png",
+        "elevation": -5.0,
+        "psnr": 27.795456151649493
+      },
+      {
+        "view": "train/007.png",
+        "elevation": -5.0,
+        "psnr": 27.225531116327716
+      },
+      {
+        "view": "train/008.png",
+        "elevation": -5.0,
+        "psnr": 27.599357506114842
+      },
+      {
+        "view": "train/009.png",
+        "elevation": -5.0,
+        "psnr": 26.693992482249133
+      },
+      {
+        "view": "train/010.png",
+        "elevation": -5.0,
+        "psnr": 27.88839431866799
+      },
+      {
+        "view": "train/011.png",
+        "elevation": -5.0,
+        "psnr": 28.566927891986303
+      },
+      {
+        "view": "train/012.png",
+        "elevation": 15.0,
+        "psnr": 28.649444977232363
+      },
+      {
+        "view": "train/013.png",
+        "elevation": 15.0,
+        "psnr": 28.444844803015616
+      },
+      {
+        "view": "train/014.png",
+        "elevation": 15.0,
+        "psnr": 26.7778100965744
+      },
+      {
+        "view": "train/015.png",
+        "elevation": 15.0,
+        "psnr": 26.17736326308592
+      },
+      {
+        "view": "train/016.png",
+        "elevation": 15.0,
+        "psnr": 28.17133892271215
+      },
+      {
+        "view": "train/017.png",
+        "elevation": 15.0,
+        "psnr": 27.568831893035224
+      },
+      {
+        "view": "train/018.png",
+        "elevation": 15.0,
+        "psnr": 27.20832913393801
+      },
+      {
+        "view": "train/019.png",
+        "elevation": 15.0,
+        "psnr": 27.577029777784926
+      },
+      {
+        "view": "train/020.png",
+        "elevation": 15.0,
+        "psnr": 27.55952403811497
+      },
+      {
+        "view": "train/021.png",
+        "elevation": 15.0,
+        "psnr": 28.978284788355037
+      },
+      {
+        "view": "train/022.png",
+        "elevation": 15.0,
+        "psnr": 29.13558255745338
+      },
+      {
+        "view": "train/023.png",
+        "elevation": 15.0,
+        "psnr": 27.80450193867931
+      },
+      {
+        "view": "train/024.png",
+        "elevation": 35.0,
+        "psnr": 28.62976091333251
+      },
+      {
+        "view": "train/025.png",
+        "elevation": 35.0,
+        "psnr": 28.11574019778107
+      },
+      {
+        "view": "train/026.png",
+        "elevation": 35.0,
+        "psnr": 28.978389484203145
+      },
+      {
+        "view": "train/027.png",
+        "elevation": 35.0,
+        "psnr": 29.537620290098886
+      },
+      {
+        "view": "train/028.png",
+        "elevation": 35.0,
+        "psnr": 29.710060765814266
+      },
+      {
+        "view": "train/029.png",
+        "elevation": 35.0,
+        "psnr": 29.316654469836493
+      },
+      {
+        "view": "train/030.png",
+        "elevation": 35.0,
+        "psnr": 29.33610058787636
+      },
+      {
+        "view": "train/031.png",
+        "elevation": 35.0,
+        "psnr": 29.024509623050765
+      },
+      {
+        "view": "train/032.png",
+        "elevation": 35.0,
+        "psnr": 29.032803407236372
+      },
+      {
+        "view": "train/033.png",
+        "elevation": 35.0,
+        "psnr": 29.288995170791555
+      },
+      {
+        "view": "train/034.png",
+        "elevation": 35.0,
+        "psnr": 29.272338113532314
+      },
+      {
+        "view": "train/035.png",
+        "elevation": 35.0,
+        "psnr": 28.64045475321563
+      },
+      {
+        "view": "train/036.png",
+        "elevation": 55.0,
+        "psnr": 28.09249703420077
+      },
+      {
+        "view": "train/037.png",
+        "elevation": 55.0,
+        "psnr": 28.14836514158334
+      },
+      {
+        "view": "train/038.png",
+        "elevation": 55.0,
+        "psnr": 28.959214761547525
+      },
+      {
+        "view": "train/039.png",
+        "elevation": 55.0,
+        "psnr": 28.338466175793783
+      },
+      {
+        "view": "train/040.png",
+        "elevation": 55.0,
+        "psnr": 28.249210867859777
+      },
+      {
+        "view": "train/041.png",
+        "elevation": 55.0,
+        "psnr": 28.190997730703913
+      },
+      {
+        "view": "train/042.png",
+        "elevation": 55.0,
+        "psnr": 29.22472656767865
+      },
+      {
+        "view": "train/043.png",
+        "elevation": 55.0,
+        "psnr": 28.8990159759175
+      }
+    ],
+    "val": [
+      {
+        "view": "val/000.png",
+        "elevation": 5.0,
+        "psnr": 19.19134947750962
+      },
+      {
+        "view": "val/001.png",
+        "elevation": 5.0,
+        "psnr": 17.418692598248683
+      },
+      {
+        "view": "val/002.png",
+        "elevation": 5.0,
+        "psnr": 18.774445063444027
+      },
+      {
+        "view": "val/003.png",
+        "elevation": 5.0,
+        "psnr": 18.63016224121489
+      },
+      {
+        "view": "val/004.png",
+        "elevation": 25.0,
+        "psnr": 13.318681654065049
+      },
+      {
+        "view": "val/005.png",
+        "elevation": 25.0,
+        "psnr": 11.824270818895366
+      },
+      {
+        "view": "val/006.png",
+        "elevation": 25.0,
+        "psnr": 14.022742985315304
+      },
+      {
+        "view": "val/007.png",
+        "elevation": 25.0,
+        "psnr": 19.17011910395106
+      },
+      {
+        "view": "val/008.png",
+        "elevation": 45.0,
+        "psnr": 16.920059155319194
+      },
+      {
+        "view": "val/009.png",
+        "elevation": 45.0,
+        "psnr": 16.070654588484818
+      },
+      {
+        "view": "val/010.png",
+        "elevation": 45.0,
+        "psnr": 17.431052141218903
+      },
+      {
+        "view": "val/011.png",
+        "elevation": 45.0,
+        "psnr": 17.021241178161116
+      }
+    ]
+  }
+}

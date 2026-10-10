@@ -1,0 +1,16 @@
+{
+  "image": "astronaut",
+  "size": 128,
+  "n": 256,
+  "densify": false,
+  "n_init": 256,
+  "steps": 2000,
+  "lr": 0.01,
+  "lr_mu": 0.1,
+  "seed": 0,
+  "device": "mps",
+  "seconds": 30.8,
+  "final_psnr": 22.417778061396987,
+  "final_n": 256,
+  "num_values": 2304
+}
